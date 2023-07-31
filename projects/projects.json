@@ -1,0 +1,12 @@
+[
+  {
+    "name": "BitStore",
+    "desc": "BitStore is a multivendor point of sale system built on the mern stack to reach and accomplish the needs of all the retailers and the sellers.",
+    "image": "bitstore",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Arpit-vashi/BitStore/tree/master/Demo-Image",
+      "code": "https://github.com/Arpit-vashi/BitStore/tree/master"
+    }
+  }
+]
